@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/conversor-binario/static/js/main.b370b4a3.chunk.js",
+    "main.js.map": "/conversor-binario/static/js/main.b370b4a3.chunk.js.map",
+    "runtime-main.js": "/conversor-binario/static/js/runtime-main.3e43d020.js",
+    "runtime-main.js.map": "/conversor-binario/static/js/runtime-main.3e43d020.js.map",
+    "static/js/2.82d77795.chunk.js": "/conversor-binario/static/js/2.82d77795.chunk.js",
+    "static/js/2.82d77795.chunk.js.map": "/conversor-binario/static/js/2.82d77795.chunk.js.map",
+    "index.html": "/conversor-binario/index.html",
+    "static/js/2.82d77795.chunk.js.LICENSE.txt": "/conversor-binario/static/js/2.82d77795.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e43d020.js",
+    "static/js/2.82d77795.chunk.js",
+    "static/js/main.b370b4a3.chunk.js"
+  ]
+}
