@@ -1,6 +1,7 @@
 # Bin2Dec
 https://leonardocarrerasilva.github.io/conversor-binario/
 
+
 **Tier:** 1-Beginner
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
