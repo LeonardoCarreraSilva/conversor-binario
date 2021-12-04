@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Conversor de binario para numerico",
+  "name": "Conversor de binario para numerico",
   "icons": [
     {
       "src": "favicon.ico",
